@@ -1,16 +1,53 @@
-# Memory Game Project
+# Memory Game
 
-## Table of Contents
+Memory matching game built with HTML, CSS, and JavaScript.
 
-* [Instructions](#instructions)
+## Features
 
-## Instructions
+- Card flipping mechanics
+- Match detection
+- Timer and move counter
+- Responsive design
 
-Turn over any two cards from deck.
-If the two cards match, keep them.
-If they don't match, turn them back over.
-Remember what was on each card and where it was.
-Watch and remember during the other player's turn.
-The game is over when all the cards have been matched.
-The player with the most matches wins.
+## Badges
 
+![GitHub Repo Stars](https://img.shields.io/github/stars/LOKESH10796/Memory-Game?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/LOKESH10796/Memory-Game?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/LOKESH10796/Memory-Game?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/LOKESH10796/Memory-Game?style=for-the-badge)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LOKESH10796/Memory-Game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Memory-Game
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   # For Node.js projects
+   npm install
+   # For Python projects
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+Add usage instructions here.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Lokesh Gounder - [@lokeshgounder](https://twitter.com/lokeshgounder) - lokesh@example.com
+
+Project Link: [https://github.com/LOKESH10796/Memory-Game](https://github.com/LOKESH10796/Memory-Game)
